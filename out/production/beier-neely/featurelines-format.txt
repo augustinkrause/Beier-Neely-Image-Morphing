@@ -1,0 +1,29 @@
+//number of images (n)
+
+//number of featurelines used in transition from image 1 to image 2
+//'start //'end //start //end
+//'start //'end //start //end
+.
+.
+.
+//'start //'end //start //end
+
+//number of featurelines used in transition from image 2 to image 3
+//'start //'end //start //end
+//'start //'end //start //end
+.
+.
+.
+//'start //'end //start //end
+
+.
+.
+.
+
+//number of featurelines used in transition from image n - 1 to image n
+//'start //'end //start //end
+//'start //'end //start //end
+.
+.
+.
+//'start //'end //start //end

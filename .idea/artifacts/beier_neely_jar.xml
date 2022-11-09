@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="beier-neely:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/beier_neely_jar</output-path>
+    <root id="archive" name="beier-neely.jar">
+      <element id="module-output" name="beier-neely" />
+    </root>
+  </artifact>
+</component>
