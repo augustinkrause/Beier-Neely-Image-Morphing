@@ -23,13 +23,13 @@ public class GUI {
     public DrawableLabel leftImage;
     public DrawableLabel rightImage;
     public JPanel leftImageContainer;
-    public String leftImagePath = "./bild1.jpg";
+    public String leftImagePath = "/Users/Augustin/Desktop/augustin/programmieren/video/beier-neely/src/bild1.png";
     public Image bLeftImage;
 
     public JPanel rightImageContainer;
     public JButton leftImageBrowse;
     public JButton rightImageBrowse;
-    public String rightImagePath = "./bild2.jpg";
+    public String rightImagePath = "/Users/Augustin/Desktop/augustin/programmieren/video/beier-neely/src/bild2.png";
     public Image bRightImage;
 
     public JButton morphButton;
